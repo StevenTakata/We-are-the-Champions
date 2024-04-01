@@ -30,12 +30,12 @@ h1 {
 textarea {
   display: flex;
   flex-direction: row;
-  margin: 0px 35px 10px 35px;
+  margin: 0px 10px 10px 10px;
 }
 
 input {
   text-align: center;
-  margin: 0px 35px 10px 35px;
+  margin: 0px 10px 10px 10px;
 }
 
 .red::placeholder {
@@ -63,12 +63,12 @@ input {
 }
 
 #from-field {
-  margin: 0px 10px 10px 35px;
+  margin: 0px 10px 10px 10px;
   flex-grow: 1;
 }
 
 #to-field {
-  margin: 0px 35px 10px 0px;
+  margin: 0px 10px 10px 0px;
   flex-grow: 1;
 }
 
@@ -76,7 +76,7 @@ button {
   font-family: "Josefin Sans", sans-serif;
   font-weight: bold;
   font-size: 22px;
-  margin: 0px 35px 10px 35px;
+  margin: 0px 10px 10px 10px;
   border-radius: 8px;
   background-color: #28a9f1;
   height: 60px;
@@ -93,7 +93,7 @@ button {
 }
 
 #endorsements {
-  margin: 0px 35px 0px 35px;
+  margin: 0px 10px 0px 10px;
   display: flex;
   flex-direction: column;
 }
