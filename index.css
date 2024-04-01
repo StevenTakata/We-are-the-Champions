@@ -59,16 +59,18 @@ input {
 
 .from-to-line {
   display: flex;
-  flex-direction: row;
+  width: 100%;
 }
 
 #from-field {
   margin: 0px 10px 10px 10px;
+  min-width: 20px;
   flex-grow: 1;
 }
 
 #to-field {
   margin: 0px 10px 10px 0px;
+  min-width: 20px;
   flex-grow: 1;
 }
 
