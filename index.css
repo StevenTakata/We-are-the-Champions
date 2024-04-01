@@ -59,7 +59,6 @@ input {
 
 .from-to-line {
   display: flex;
-  width: 100%;
 }
 
 #from-field {
